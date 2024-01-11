@@ -23,7 +23,7 @@
 Brands Palettes is a collection of hexadecimal brand colors, providing an extensive list of colors associated with various brands.
 I based this project and code on [svgl](https://github.com/pheralb/svgl) made by [pheralb](https://github.com/pheralb)
 
-## :rocket: Getting Started
+## Getting Started
 
 1. Fork this project and then clone it
 
