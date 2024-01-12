@@ -75,7 +75,7 @@ const BrandCard = ({ brand, colors, category }: BrandCardProps) => {
           {brand}
         </span>
         <Link
-          href={`category/${category}`}
+          href={`/category/${category}`}
           className={cn('text-[12px] dark:text-neutral-500 hover:underline')}
         >
           {category}
