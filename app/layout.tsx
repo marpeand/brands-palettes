@@ -1,4 +1,5 @@
 import './globals.css';
+import { Analytics } from '@vercel/analytics/react';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import { Sidebar } from '@/components/Sidebar';
@@ -18,6 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         className={`dark:bg-[#161616] bg-white text-white min-h-screen antialiased ${inter.className}`}
         suppressHydrationWarning
       >
+        <Analytics />
         <ThemeProviders>
           <main>
             <Sidebar />
