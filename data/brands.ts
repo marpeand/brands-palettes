@@ -38,7 +38,7 @@ export const brands: Brand = {
     kraken: ['#5841d9']
   },
   companies: {
-    meta: ['#0576EF', '##79C4F9', '#5EA0E3'],
+    meta: ['#0576EF', '#79C4F9', '#5EA0E3'],
     microsoft: ['#04ACF4', '#82BD01', '#F45424', '#FFBB02'],
     intel: ['#0474C4'],
     tesla: ['#E61134'],
