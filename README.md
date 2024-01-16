@@ -60,8 +60,8 @@ $ npm run dev
 
    ```js
    cryptocurrencies: {
-     bitcoin: ['#F79621'],
-     ethereum: ['#6782EB', '#859BEF', '#C3CEF7'],
+    bitcoin: ['#F79621', '#FFFFFF'],
+    ethereum: ['#637BEC', '#DADEF2', '#8494EC', '#A4B4F4'],
    }
    ```
 
