@@ -65,7 +65,7 @@ const BrandCard = ({ brand, colors, category }: BrandCardProps) => {
                 { 'rounded-bl-lg': isLastColor(color) }
               )}
             >
-              {copied ? 'Copied!' : color}
+              {copied ? 'Copied!' : color.toUpperCase()}
             </span>
           </button>
         ))}
