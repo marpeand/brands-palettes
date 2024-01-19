@@ -14,7 +14,8 @@ export const brands: Brand = {
     opera: ['#F11428', '#B4070D', '#F74545'],
     chromium: ['#B4CCFB', '#649CF4', '#146ADD'],
     tor: ['#6C1497', '#F0E0F9', '#941DD4', '#B572DC'],
-    bing: ['#40C4EC', '#1B5CF1', '#2180F4']
+    bing: ['#40C4EC', '#1B5CF1', '#2180F4'],
+    edge: ['#31C2E4', '#47D46B', '#0680D7', '#0F5196']
   },
   cryptocurrencies: {
     bitcoin: ['#F79621', '#FFFFFF'],
@@ -42,7 +43,9 @@ export const brands: Brand = {
     microsoft: ['#04ACF4', '#82BD01', '#F45424', '#FFBB02'],
     intel: ['#0474C4'],
     tesla: ['#E61134'],
-    nvidia: ['#75B800']
+    nvidia: ['#75B800'],
+    paypal: ['#049BE3', '#042884', '#044F9F'],
+    adobe: ['#fa0400']
   },
   databases: {
     supabase: ['#3AC889', '#248F5F', '#2CA46C'],
@@ -92,7 +95,8 @@ export const brands: Brand = {
     npm: ['#cc3534'],
     postman: ['#ff6c37'],
     sublimetext: ['#454545', '#ff9800'],
-    twilio: ['#ee3248']
+    twilio: ['#ee3248'],
+    figma: ['#f24d18', '#ff7362', '#a459ff', '#13bdfe', '#02d084']
   },
   social: {
     twitter: ['#179CF0'],
