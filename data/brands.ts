@@ -85,7 +85,7 @@ export const brands: Brand = {
     digitalOcean: ['#0081ff'],
     firebase: ['#FBCA2A', '#F99209'],
     aws: ['#232f3e', '#ff9900'],
-    dribble: ['#E50F67', '#FF4081']
+    dribbble: ['#E50F67', '#FF4081']
   },
   software: {
     bitwarden: ['#105ddd'],
