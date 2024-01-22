@@ -45,7 +45,8 @@ export const brands: Brand = {
     tesla: ['#E61134'],
     nvidia: ['#75B800'],
     paypal: ['#049BE3', '#042884', '#044F9F'],
-    adobe: ['#fa0400']
+    adobe: ['#fa0400'],
+    airbnb: ['#FF5A5F']
   },
   databases: {
     supabase: ['#3AC889', '#248F5F', '#2CA46C'],
@@ -83,7 +84,8 @@ export const brands: Brand = {
     github: ['#171515'],
     digitalOcean: ['#0081ff'],
     firebase: ['#FBCA2A', '#F99209'],
-    aws: ['#232f3e', '#ff9900']
+    aws: ['#232f3e', '#ff9900'],
+    dribble: ['#E50F67', '#FF4081']
   },
   software: {
     bitwarden: ['#105ddd'],
