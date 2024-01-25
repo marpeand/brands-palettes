@@ -70,13 +70,13 @@ const BrandCard = ({ brand, colors, category }: BrandCardProps) => {
           </button>
         ))}
       </div>
-      <div className="pt-2 flex flex-col  text-dark">
+      <div className="pt-2 flex flex-col text-dark">
         <span className={cn('text-[15px] dark:text-white capitalize', rubik.className)}>
           {brand}
         </span>
         <Link
           href={`/category/${category}`}
-          className={cn('text-[12px] dark:text-neutral-500 hover:underline')}
+          className="text-[12px] dark:text-neutral-500 hover:underline"
         >
           {category}
         </Link>
