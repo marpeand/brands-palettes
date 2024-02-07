@@ -98,7 +98,8 @@ export const brands: Brand = {
     postman: ['#ff6c37'],
     sublimetext: ['#454545', '#ff9800'],
     twilio: ['#ee3248'],
-    figma: ['#f24d18', '#ff7362', '#a459ff', '#13bdfe', '#02d084']
+    figma: ['#f24d18', '#ff7362', '#a459ff', '#13bdfe', '#02d084'],
+    ubuntu: ['#E95420']
   },
   social: {
     twitter: ['#179CF0'],
