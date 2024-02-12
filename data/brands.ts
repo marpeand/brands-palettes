@@ -3,7 +3,7 @@ import { Brand } from '@/types/brand';
 export const brands: Brand = {
   ai: {
     codium: ['#5866EE', '#0ADAB1', '#351DB6', '#148C8C'],
-    bard: ['#A971B4', '#3894DD', '#6485D4', '#E17465'],
+    gemini: ['#A971B4', '#3894DD', '#6485D4', '#E17465'],
     openai: ['#10A37F'],
     huggingface: ['#F1C445', '#0B101D', '#FC343C']
   },
