@@ -99,7 +99,8 @@ export const brands: Brand = {
     sublimetext: ['#454545', '#ff9800'],
     twilio: ['#ee3248'],
     figma: ['#f24d18', '#ff7362', '#a459ff', '#13bdfe', '#02d084'],
-    ubuntu: ['#E95420']
+    ubuntu: ['#E95420'],
+    stackoverflow: ['#f58025', '#bbbbbb']
   },
   social: {
     twitter: ['#179CF0'],
