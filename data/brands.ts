@@ -100,7 +100,8 @@ export const brands: Brand = {
     twilio: ['#ee3248'],
     figma: ['#f24d18', '#ff7362', '#a459ff', '#13bdfe', '#02d084'],
     ubuntu: ['#E95420'],
-    stackoverflow: ['#f58025', '#bbbbbb']
+    stackoverflow: ['#f58025', '#bbbbbb'],
+    zoom: ['#008dff', '#0a5cfd']
   },
   social: {
     twitter: ['#179CF0'],
