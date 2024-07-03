@@ -46,7 +46,8 @@ export const brands: Brand = {
     nvidia: ['#75B800'],
     paypal: ['#049BE3', '#042884', '#044F9F'],
     adobe: ['#fa0400'],
-    airbnb: ['#FF5A5F']
+    airbnb: ['#FF5A5F'],
+    logitech: ['#00b5ea']
   },
   databases: {
     supabase: ['#3AC889', '#248F5F', '#2CA46C'],
